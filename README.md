@@ -1,4 +1,3 @@
-# project-error-collection
 # 软件部工作安排
 
 ## 部门结构
